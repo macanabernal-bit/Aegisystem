@@ -6,6 +6,7 @@ Aquí registras tu avance y, al final, explicas con tus palabras lo que hiciste.
 
 - Jaider David Macana Bernal - Empiezo la practica - 18/08/2026
 - Estudiante de sexto semestre - Ingenieria de sistemas
+- Ingenieria de Software
 
 ## Lo que aprendí
 
